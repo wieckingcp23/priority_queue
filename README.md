@@ -1,4 +1,14 @@
 # priority_queue
-Randolph-Macon College CSCI 112:Data Structures – Spring 2019 Lab Assignment #10
+A priority queue data structure
 
-Task was to create a priority queue with the given method names. Grade on Lab 10 was 40/40
+Type: Course Work
+Institution: Randolph-Macon College
+Date: 28 MARCH 2019
+
+Description: Lab Assignment 10 for CSCI 112 Data Structures at Randolph-Macon College
+
+Tasked with creating a priority queue with method names given by the instuctor.  
+
+Language: Python
+
+Grade: 40/40
